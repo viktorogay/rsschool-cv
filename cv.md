@@ -20,6 +20,7 @@ My aim is to get as much experience as I can and successfully finish the series 
 
 ### **Code Example:**  
 *This code does not execute properly. Try to figure out why.*  
+
 **Code with a mistake:**  
 ```javascript
 function multiply(a, b){
@@ -32,7 +33,22 @@ function multiply(a, b){
   return a * b
 }
 ```  
- 
+### **Experience**  
+* [CV Project made during RSSchool course](https://github.com/viktorogay/rsschool-cv/tree/main)  
+
+### **Courses**  
+* Inha University in Tashkent (4-th course in progress)
+* RS School JS/Front-end. Stage 0 (in progress)  
+
+### **Languages**  
+* Russian (native)  
+* English (intermediate-upper-intermediate) according to EF SET Quick Check Result
+![English level text](/rsschool-cv/EN.png)  
+
+
+
+
+
 
 
 
