@@ -44,7 +44,7 @@ function multiply(a, b){
 * Russian (native)  
 * English (intermediate-upper-intermediate) according to EF SET Quick Check Result  
 
-![English test result](EN.png)
+![English test result](/rsschool-cv/EN.png)
  
 
 
