@@ -1,4 +1,4 @@
-![Photo of myself](../rsschool-cv/images/photo.JPG)
+![Photo of myself](rsschool-cv/images/photo.JPG)
 # Ogay Viktor
 ### **Contact information:**  
 
